@@ -1,85 +1,85 @@
-# 🍊 Website Bán Trái Cây – BanTraiCay
+# 🍊 Fruit Store Website – BanTraiCay
 
-Đây là một giao diện website bán trái cây đơn giản, được thiết kế bằng **HTML5**, **CSS3**, và thư viện **Bootstrap**, nhằm mô phỏng một cửa hàng trái cây trực tuyến với giao diện hiện đại và bố cục rõ ràng.
-
----
-
-## 📄 Giới thiệu
-
-Website bao gồm các trang chức năng cơ bản như:
-
-- 🏠 Trang chủ (`trangchu.html`)
-- 🍍 Trang sản phẩm (`sanpham.html`)
-- ℹ️ Trang giới thiệu (`gioithieu.html`)
-- ✉️ Trang liên hệ (`contact.html`)
-- 🔐 Trang đăng nhập (`login.html`)
-
-Phù hợp để làm demo hoặc mở rộng thành một hệ thống thương mại điện tử thực tế.
+A simple and modern fruit store website interface designed with **HTML5**, **CSS3**, and **Bootstrap**, simulating an online fruit shop with clean layout and fresh visuals.
 
 ---
 
-## 🖼️ Giao diện
+## 📄 Overview
 
-> Giao diện sử dụng theme trái cây tươi mát, kết hợp màu sắc hài hòa với bố cục hiện đại, responsive.
+The website includes the following basic pages:
 
+- 🏠 Home   (`trangchu.html`)
+- 🍍 Products  (`sanpham.html`)
+- ℹ️ About (`gioithieu.html`)
+- ✉️ Contact (`contact.html`)
+- 🔐 Login (`login.html`)
 
-
-
-![Trang chủ](images/trangchu.png)
-![Trang sản phẩm](images/sanpham.png)
+Perfect for demo purposes or for expanding into a real e-commerce platform.
 
 ---
 
-📁 Cấu trúc thư mục
+## 🖼️ Interface
+
+> The UI features a fresh fruit theme, clean layout, harmonious colors, and responsive design.
+
+
+
+
+![Homepage](images/trangchu.png)
+![Product Page](images/sanpham.png)
+
+---
+
+📁  Folder Structure
 ```bash
 BanTraiCay-master/
-├── trangchu.html             # Trang chủ
-├── sanpham.html              # Trang sản phẩm
-├── gioithieu.html            # Trang giới thiệu
-├── contact.html              # Trang liên hệ
-├── login.html                # Trang đăng nhập
+├── trangchu.html             # Homepage
+├── sanpham.html              # Product page
+├── gioithieu.html            # About page
+├── contact.html              # Contact page
+├── login.html                # Login page
 │
-├── css/                      # Thư mục chứa các file CSS
+├── css/                      #  CSS files
 │   ├── style.css
 │   ├── responsive.css
 │   └── bootstrap.min.css
 │
 ├── fonts/                    # Font icon (Font Awesome, Linearicons)
-└── images/                   # Ảnh minh họa (nếu có)
+└── images/                   #  UI images (if any)
 ```
 ---
 
-🚀 Cách sử dụng
--  Mở trực tiếp file trangchu.html trong trình duyệt để xem giao diện website.
+🚀 How to Use
+- Open trangchu.html directly in a web browser to view the website.
 ```bash
-# Cách mở (trên máy tính)
-1. Tải về repo
-2. Giải nén (nếu là file .zip)
-3. Mở file: BanTraiCay-master/trangchu.html bằng trình duyệt bất kỳ
+# Steps (on local machine)
+1. Download or clone the repo
+2. Extract if downloaded as .zip
+3. Open: BanTraiCay-master/trangchu.html in any web browser
 ```
 ---
 
-💡 Gợi ý mở rộng
+💡  Suggested Improvements
 
--  Tích hợp JavaScript cho các hiệu ứng động (carousel, modal, validate form).
+-  Integrate JavaScript for dynamic effects (carousel, modal, form validation)
 
--  Tích hợp backend (PHP/MySQL hoặc Node.js) để xử lý đặt hàng, đăng ký, đăng nhập.
+-  Add backend (PHP/MySQL or Node.js) to handle orders, registration, and login
 
--  Thêm giỏ hàng, thanh toán, đánh giá sản phẩm.
+-  Add shopping cart, checkout, and product review features
 
 ---
 
-👨‍💻 Tác giả
--  Họ tên: Lê Phước Thái
+👨‍💻 Author
+-  Name:  Lê Phước Thái
 
--  Mục đích: Dự án demo website tĩnh môn học/luyện tập giao diện
+-  Purpose: Demo project for learning HTML/CSS or building UI practice
 
 -  🔗 GitHub: github.com/LePhuocThai2502 
 ---
 
-📜 Giấy phép
+📜 License
 
--  Dự án mang mục đích học tập, có thể sử dụng, chỉnh sửa và chia sẻ tự do.
+-  This project is intended for educational purposes and may be freely used, modified, and shared.
 
 ---
 
